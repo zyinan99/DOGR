@@ -42,3 +42,4 @@ Yinan Zhou*, Yuxin Chen*, Haokun Lin,Shuyu Yang, Li Zhu, Zhongang Qi‡, Chen Ma
 }
 }
 ```
+Please refer to our [license file](https://github.com/zyinan99/DOGE/blob/main/LICENSE) for more details.
