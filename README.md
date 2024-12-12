@@ -8,7 +8,7 @@ Yinan Zhou*, Yuxin Chen*, Haokun Lin,Shuyu Yang, Li Zhu, Zhongang Qi‡, Chen Ma
 
  <a href='https://zyinan99.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
  <a href="https://arxiv.org/pdf/2411.17125"><img src="https://img.shields.io/static/v1?label=Arxiv Preprint&message=DOGE&color=red&logo=arxiv"></a>
- <a href="https://www.youtube.com/watch?v=gfhF3oYH178&feature=youtu.be"><img src="https://img.shields.io/static/v1?label=Video&message=Video&color=orange&logo=youtube"></a>
+ <a href="https://www.youtube.com/watch?v=gfhF3oYH178&feature=youtu.be"><img src="https://img.shields.io/static/v1?label=Demo&message=Video&color=orange&logo=youtube"></a>
  
 
  ### Abstract 
