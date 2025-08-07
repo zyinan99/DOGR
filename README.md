@@ -15,7 +15,7 @@ Yinan Zhou*, Yuxin Chen*, Haokun Lin,Shuyu Yang, Li Zhu, Zhongang Qi‡, Chen Ma
  The constructed traning data, test data and DOGE-Bench files can be found in <a href='https://huggingface.co/datasets/yinanzhou1/doge_data'>DOGR Data</a> &nbsp;
 
 ### DOGR Bench Data
-DOGR-Bench files can be downloaded here(https://huggingface.co/datasets/yinanzhou1/DOGR_Bench)
+[DOGR-Bench files can be downloaded here!](https://huggingface.co/datasets/yinanzhou1/DOGR_Bench) 
  ### Video
 [Watch the introduction video here!](https://www.youtube.com/watch?v=gfhF3oYH178&feature=youtu.be) 
 
